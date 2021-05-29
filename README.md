@@ -11,7 +11,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 FIRST FILE IS Related to GLOBAL SUPER STORE DATABASE
  
-NOTHER IS Famous Nortwind Database
+ANOTHER IS Famous Northwind Database
  
  if you found any mistake or correction please comment on that.
  
